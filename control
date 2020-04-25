@@ -1,0 +1,9 @@
+Package: com.p2kdev.fivedock13
+Name: FiveDock13
+Depends: firmware (>= 13.0),mobilesubstrate,preferenceloader
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Five Icons on your Dock!
+Maintainer: P2KDev <p2kdev@gmail.com>
+Author: P2KDev <p2kdev@gmail.com>
+Section: Tweaks
